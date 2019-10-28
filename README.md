@@ -2,7 +2,8 @@ Clover EFI for Z370 AORUS ULTRA GAMING WIFI
 
 Everything is working with Mac OS Catalina, except the sidecar.
 
-USB Port-limit is also applied.
+* USB Port-limit is also applied.
+* Both RX 570 and internal Intel UHD 630 are enabled and H264 + H265 acceleration enabled
 
 Hardware Spec
 
