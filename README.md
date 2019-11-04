@@ -5,7 +5,7 @@ Tested on Mac OS Catalina
 Working
 
 * H264 & H265 Acceleration
-* TB3 Hotplug ([BIOS Setting](BIOS_TB_Settings.jpg))
+* TB3 Hotplug ([BIOS Setting](BIOS_TB_Setting.jpg))
 * USB 2 & 3 Ports
 
 Not Working
