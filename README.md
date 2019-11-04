@@ -1,9 +1,17 @@
 Clover EFI for Z370 AORUS ULTRA GAMING WIFI
 
-Everything is working with Mac OS Catalina, except the sidecar.
+Tested on Mac OS Catalina 
 
-* USB Port-limit is also applied.
-* Both RX 570 and internal Intel UHD 630 are enabled and H264 + H265 acceleration enabled
+Working
+
+* H264 & H265 Acceleration
+* TB3 Hotplug ([BIOS Setting](BIOS_TB_Settings.jpg))
+* USB 2 & 3 Ports
+
+Not Working
+
+* Sidecar
+
 
 Hardware Spec
 
