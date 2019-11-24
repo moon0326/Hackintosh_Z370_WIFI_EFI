@@ -278,32 +278,12 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>USB Port Limit Patch 2 ©PMHeart</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				QYP/Dw+DlAQAAA==
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>MatchOS</key>
-				<string>10.14.x</string>
-				<key>Name</key>
-				<string>com.apple.driver.usb.AppleUSBXHCI</string>
-				<key>Replace</key>
-				<data>
-				QYP/Pw+DlAQAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>USB Port Limit Patch 3 ©PMHeart</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
 				<data>
-				g+MP0+NBCd8=
+				g/sPDw==
 				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
@@ -311,7 +291,7 @@
 				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
 				<data>
-				g+M/0+NBCd8=
+				g/s/Dw==
 				</data>
 			</dict>
 			<dict>
@@ -321,15 +301,15 @@
 				<false/>
 				<key>Find</key>
 				<data>
-				g/sPD4cLBAAA
+				g/kPDw==
 				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
-				<string>com.apple.iokit.IOUSBHostFamily</string>
+				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
 				<data>
-				g/s/D4cLBAAA
+				g/k/Dw==
 				</data>
 			</dict>
 		</array>
@@ -358,7 +338,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02710301J9J0PGJA</string>
+		<string>C02848501J9J0PGJC</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -388,9 +368,9 @@
 		<key>ProductName</key>
 		<string>iMac18,3</string>
 		<key>SerialNumber</key>
-		<string>C02TDJZCJ1GJ</string>
+		<string>C02XR5ZHJ1GJ</string>
 		<key>SmUUID</key>
-		<string>611F270D-0EE0-401B-97FF-F0F4F6E51DB5</string>
+		<string>43C5A9B1-85DD-463E-8A72-D71E6EE3ACE0</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
