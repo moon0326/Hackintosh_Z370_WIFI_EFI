@@ -22,3 +22,7 @@ Hardware Spec
 * GPU: MSI Gaming Radeon RX 570 8GB (RX 570 ARMOR MK2 8G OC)
 * Thunderbolt: Titan Ridge
 * Wifi: BCM94360CS2 with WiFi + Bluetooth 4.0 Card to PCI-E x1 Adapter
+
+Note
+
+* Wake On Lan must be disabled in BIOS setting. Otherwise, sleeping wakes up after 10~15 mins.
