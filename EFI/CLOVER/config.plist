@@ -187,7 +187,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>7</integer>
+			<integer>1</integer>
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
@@ -287,6 +287,8 @@
 				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
 				<key>Name</key>
 				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
@@ -305,6 +307,8 @@
 				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
