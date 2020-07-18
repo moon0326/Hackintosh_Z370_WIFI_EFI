@@ -197,7 +197,6 @@
 	<dict>
 		<key>Hide</key>
 		<array>
-			<string>Preboot</string>
 			<string>Windows</string>
 			<string>Recovery</string>
 		</array>
